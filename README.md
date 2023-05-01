@@ -3,8 +3,8 @@ These are fun and exciting Terraform challenges from the Terraform Challenges Se
 ## Installation :
 ```bash
   wget https://releases.hashicorp.com/terraform/1.1.5/terraform_1.1.5_linux_amd64.zip 
-  sudo apt-get update
-  sudo apt install unzip
+  apt-get update
+  apt install unzip
   unzip terraform_1.1.5_linux_amd64
   terrafrom -version
   cd /root/terraform_challenge
